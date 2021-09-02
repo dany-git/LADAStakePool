@@ -1,5 +1,5 @@
 
-![LADA Stake Pool](https://github.com/dany-git/LADAStakePool/tree/main/images/LADAStakePool.jpg)
+![LADA Stake Pool](images/LADAStakePool.jpg)
 
 # LADAStakePool
 - Our pool is built and operated on the Azure Cloud ecosystem, one of the most modern and security server platform in the world, that is operating 24/7 with no downtime and high performance, full services to support all the staking holders and developers to satisfy all their needs
