@@ -20,24 +20,23 @@
         - Games NFT
         - Trade in NFT images services
         - Defi applications NFT
-        - Platforms for building smart contracts<br/>
+        - Platforms for building smart contracts
  
  # Education
     - We built the internal SPO alliances, created the wide community through Face Book, twitter, you tube...
     - Feel free to contact us at
-        . Face book: https://www.facebook.com/groups/cardanovietnam<br/>
-                     https://www.facebook.com/groups/holdada<br/>
-        . Twitter: https://twitter.com/LadaPool<br/>
+        . Face book: https://www.facebook.com/groups/holdada
+        . Twitter: https://twitter.com/LadaPool
     - Develop potential channels to connect authorized people and provide them with knowledge base, in order to:
         - Help to accumulate, understand and staking ADA to increase the asset values
         - Help to access the smart contract platform
         - Help to develop community smart contract application platforms
         - Help to connect and socialize
-        - Solve difficult technical problems<br/>
+        - Solve difficult technical problems
         
 # Authorized
     LADA Stake Pool - 2021
-    Website: https://ladapool.com<br/>
+    Website: https://ladapool.com
     Portfolio: https://adafolio.com/portfolio/214ec488-fd8a-11eb-b3c3-0242ac180002
         
         
