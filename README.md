@@ -37,7 +37,8 @@
         
 # Authorized
     LADA Stake Pool - 2021
-        
+    Website: https://ladapool.com<br/>
+    Portfolio: https://adafolio.com/portfolio/214ec488-fd8a-11eb-b3c3-0242ac180002
         
         
                      
