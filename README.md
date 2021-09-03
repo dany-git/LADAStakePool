@@ -27,6 +27,7 @@
 - Feel free to contact us at<br/>
     . Face book: https://www.facebook.com/groups/holdada<br/>
     . Twitter: https://twitter.com/LadaPool
+	. Linked in: https://www.linkedin.com/in/lada-stakepool-a92b4b21b
 - Develop potential channels to connect authorized people and provide them with knowledge base, in order to
     - Help to accumulate, understand and staking ADA to increase the asset values
     - Help to access the smart contract platform
